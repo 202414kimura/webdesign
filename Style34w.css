@@ -13,6 +13,7 @@
         }
         /* ヘッター CSS */
         header{
+          padding:10px;
           width:640px;
           background-color:bisque;
         }
