@@ -1,1 +1,45 @@
-
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <menta charset="UTF-8">
+    <title>素材について</title>
+     <link href="style34s.css" rel="stylesheet">
+  </head>
+  <body>
+    <header>
+      <h1>素材について</h1>
+      <p>当店のスイーツは、国内産の素材にこだわって作っています。</p>
+      <img src="Images/material.jpg" alt="厳選素材ヘッダー画像">
+      <nav>
+        <ul>
+          <li><a href="#chestnut">モンブラン</a></li>
+          <li><a href="#wheat">マカロン</a></li>
+          <li><a href="#sugar">砂糖</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <article>
+      <h2>ビックアップ素材</h2>
+      <p>素材はすべて厳選していますが、特にこだわりを持っている素材を紹介します。</p>
+      <section class="sweets">
+      <h3>栗</h3>
+      <p>モンブランの栗は岐阜岐阜産を使用しています。</p>
+      <img src="Images/chestnut1.jpg" alt="栗の写真">
+      </section>
+      <section class="sweets">
+  <h3>薄力粉</h3>
+  <p>薄力粉はすべて北海道産を使用しています。</p>
+  <img src="Images/wheat1.jpg" alt="薄力粉の写真">
+      </section>
+      <section class="sweets">
+  <h3>砂糖</h3>
+        <P>砂糖は沖縄産と北海道産を使い分けています。</P>
+        <img src="Images/sugar1.jpg" alt="砂糖の写真">
+　　</article>
+    </main>
+    <footer>
+      <small>&copy; 2018Material Sweets.</small>
+    </footer>
+  </body>
+</html>
