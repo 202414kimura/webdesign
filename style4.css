@@ -31,7 +31,7 @@
         }
         nav ul{ list-style-type:none;}
         nav li{
-          width:298px;
+          width:180px;
           height:38px;
           margin-left:5px;
           margin-right:5px;
@@ -55,7 +55,7 @@
           font-size:24px;
           color:darkred;
         }
-        .sweets{
+      .sweets{
           width:160px;
           padding:10px;
           margin-top:20px;
