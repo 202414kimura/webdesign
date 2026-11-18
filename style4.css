@@ -56,16 +56,16 @@
           color:darkred;
         }
       .sweets{
-          width:180px;
+          width:195px;
           padding:10px;
           margin-top:20px;
           margin-right:10px;
           float:left;
           background-color:burlywood;
         }
-    sweets img{
+    .sweets img{
             display:block;
-            width:100%;}
+            }
         h3{
           font-size:20px;
           color:brown;
