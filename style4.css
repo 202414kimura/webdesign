@@ -56,7 +56,7 @@
           color:darkred;
         }
       .sweets{
-          width:30%;
+          width:640px;
           padding:10px;
           margin-top:20px;
           margin-right:10px;
@@ -64,6 +64,7 @@
           background-color:burlywood;
         }
     sweets img{
+            display:block;
             width:100%;}
         h3{
           font-size:20px;
