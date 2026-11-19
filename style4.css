@@ -56,14 +56,14 @@
           color:darkred;
         }
       .sweets{
-          width:186px;
+          width:170px;
           padding:10px;
           margin-top:20px;
           margin-right:10px;
           float:left;
           background-color:burlywood;
         }
-sweets img{
+.sweets img{
             display:block;
         vertical-aling:bottom;
         }
