@@ -57,7 +57,6 @@
         }
       .sweets{
           width:170px;
-          height:200;
           padding:10px;
           margin-top:20px;
           margin-right:10px;
@@ -66,7 +65,8 @@
         }
 .sweets img{
             display:block;
-        vertical-aling:bottom;
+            width:100%
+            height:auto;
         }
         h3{
           font-size:20px;
